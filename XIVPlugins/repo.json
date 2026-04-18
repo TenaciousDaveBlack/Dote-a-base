@@ -18,9 +18,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 1,
     "LastUpdate": 1776537540,
-    "DownloadLinkInstall": "https://github.com/TenaciousDaveBlack/Dote-a-base/Zip/1.0.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/TenaciousDaveBlack/Dote-a-base/Zip/1.0.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/TenaciousDaveBlack/Dote-a-base/Zip/1.0.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/TenaciousDaveBlack/Dote-a-base/main/XIVPlugins/Zip/1.0.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/TenaciousDaveBlack/Dote-a-base/main/XIVPlugins/Zip/1.0.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/TenaciousDaveBlack/Dote-a-base/main/XIVPlugins/Zip/1.0.0.0.zip",
     "IconUrl": "https://raw.githubusercontent.com/TenaciousDaveBlack/Dote-a-base/main/XIVPlugins/Icon.png"
   }
 ]
