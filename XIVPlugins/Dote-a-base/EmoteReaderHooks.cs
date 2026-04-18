@@ -58,7 +58,7 @@ namespace EmoteLog.Hooks
 
                     if (instigatorOb != null)
                     {
-                        if (instigatorOb is IPlayerCharacter playerCharacter)
+                        if (instigatorOb.GameObjectId == PluginServices.ObjectTable.LocalPlayer.GameObjectId)
                         {
                             var EmoteTarget = PluginServices.ObjectTable.LocalPlayer.TargetObject as IPlayerCharacter;
                             if (EmoteTarget != null)
