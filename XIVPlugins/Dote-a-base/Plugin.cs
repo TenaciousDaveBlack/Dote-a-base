@@ -60,7 +60,7 @@ public sealed class Plugin : IDalamudPlugin
 
         CommandManager.AddHandler(CommandName, new CommandInfo(OnCommand)
         {
-            HelpMessage = "Toggle the DoteTracker window."
+            HelpMessage = "Toggle the Dote-a-base window."
         });
 
         PluginInterface.UiBuilder.Draw       += DrawUI;
@@ -71,7 +71,7 @@ public sealed class Plugin : IDalamudPlugin
 
         EmoteQueue = new EmoteQueue(this);
 
-        PluginLog.Information("[DoteTracker] Plugin loaded.");
+        PluginLog.Information("[Dote-a-base] Plugin loaded.");
     }
 
     public void Dispose()
@@ -90,7 +90,7 @@ public sealed class Plugin : IDalamudPlugin
         
         EmoteReaderHooks.Dispose();
 
-        PluginLog.Information("[DoteTracker] Plugin unloaded.");
+        PluginLog.Information("[Dote-a-base] Plugin unloaded.");
     }
 
     // -------------------------------------------------------------------------
