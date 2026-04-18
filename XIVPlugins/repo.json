@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "Dave Black",
+    "Name": "Dote-a-base",
+    "Punchline": "Easily see who you have doted and who has doted you.",
+    "Description": "Easily see who you have doted and who has doted you."
+    "Tags": [
+      "dote",
+      "plugin"
+    ],
+    "InternalName": "Dote-a-base",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/TenaciousDaveBlack/Dote-a-base",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 1,
+    "LastUpdate": 1776537540,
+    "DownloadLinkInstall": "https://github.com/TenaciousDaveBlack/Dote-a-base/Zip/1.0.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/TenaciousDaveBlack/Dote-a-base/Zip/1.0.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/TenaciousDaveBlack/Dote-a-base/Zip/1.0.0.0.zip",
+    "IconUrl": "https://raw.githubusercontent.com/TenaciousDaveBlack/Dote-a-base/icon.png"
+  }
+]
